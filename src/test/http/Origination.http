@@ -1,0 +1,13 @@
+### POST create-user
+POST http://localhost:8080/origination/create-user
+Content-Type: application/json
+
+{
+  "accountNumber": 134331243,
+  "accountHolder": "LV Molemi",
+  "digitalId": "null4@gmail.com",
+  "idNumber": 68170294,
+  "debitDate": 25
+}
+
+###
